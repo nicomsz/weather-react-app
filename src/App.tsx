@@ -97,6 +97,10 @@ const App = () => {
             <img src={WeatherTypes[0].img} alt='Weather' className='w-52 mx-auto' />
             <h3 className='text-2xl font-bold text-zinc-800'> {WeatherTypes[0].type}</h3>
           </div>
+          <div>
+            <img src="https://cdn-icons-png.flaticon.com/512/7794/7794499.png" alt='...'/>
+            <h3 >27&#176</h3>
+          </div>
         </div>
       </div>
 
